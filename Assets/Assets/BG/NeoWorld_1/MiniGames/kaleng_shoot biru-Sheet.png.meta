@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: dc508c9280867504fb519a64431d59aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6313540850159468178
+    second: kaleng_shoot biru-Sheet_0
+  - first:
+      213: -3860781690801991334
+    second: kaleng_shoot biru-Sheet_1
+  - first:
+      213: 5977236063371975092
+    second: kaleng_shoot biru-Sheet_2
+  - first:
+      213: -6275936583745925351
+    second: kaleng_shoot biru-Sheet_3
+  - first:
+      213: 1785110770723120158
+    second: kaleng_shoot biru-Sheet_4
+  - first:
+      213: 8075176768922970206
+    second: kaleng_shoot biru-Sheet_5
+  - first:
+      213: -4230104983294393009
+    second: kaleng_shoot biru-Sheet_6
+  - first:
+      213: 2127913149533684518
+    second: kaleng_shoot biru-Sheet_7
+  - first:
+      213: 3589868972499067887
+    second: kaleng_shoot biru-Sheet_8
+  - first:
+      213: 4586926464548685993
+    second: kaleng_shoot biru-Sheet_9
+  - first:
+      213: 1560063932828001689
+    second: kaleng_shoot biru-Sheet_10
+  - first:
+      213: -1139530828113374494
+    second: kaleng_shoot biru-Sheet_11
+  - first:
+      213: -7336493933616452009
+    second: kaleng_shoot biru-Sheet_12
+  - first:
+      213: -1900093268910904432
+    second: kaleng_shoot biru-Sheet_13
+  - first:
+      213: 6556039444176636832
+    second: kaleng_shoot biru-Sheet_14
+  - first:
+      213: -6812555137011249891
+    second: kaleng_shoot biru-Sheet_15
+  - first:
+      213: 7412694482320566730
+    second: kaleng_shoot biru-Sheet_16
+  - first:
+      213: 4684344113065239643
+    second: kaleng_shoot biru-Sheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaleng_shoot biru-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61c35f1c0cc168a0800000000000000
+      internalID: -6313540850159468178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleng_shoot biru-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 70
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515a6ce18fbb6ac0800000000000000
+      internalID: -3860781690801991334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleng_shoot biru-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 70
+        width: 180
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d0f7e78863f250800000000000000
+      internalID: 5977236063371975092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleng_shoot biru-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 80
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f02fcade467e8a0800000000000000
+      internalID: -6275936583745925351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleng_shoot biru-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 78
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ecadb9ccf5c810800000000000000
+      internalID: 1785110770723120158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
