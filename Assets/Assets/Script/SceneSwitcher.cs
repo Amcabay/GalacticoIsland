@@ -6,19 +6,36 @@ using UnityEngine.SceneManagement;
 public class SceneSwitcher : MonoBehaviour
 {
 
-    public void OpenScene (int index)
+    /*public void OpenScene (int index)
     {
         SceneManager.LoadScene(index);
-    }
-    // Start is called before the first frame update
-    void Start()
+    }*/
+
+    public void LoadGame()
     {
-        
+        Application.LoadLevel("NeoWorld_1");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadOption()
     {
-        
+        Application.LoadLevel("Option");
     }
+
+    public void NoExit()
+    {
+        Application.LoadLevel("Main Menu");
+    }
+
+    public void YesExit()
+    {
+        Application.Quit();
+        Debug.Log("Metuo Co");
+    }
+
+    public void LoadExitPopup()
+    {
+        Application.LoadLevel("Exit");
+    }
+
+
 }
