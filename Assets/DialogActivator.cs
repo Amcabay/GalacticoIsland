@@ -14,7 +14,7 @@ public class DialogActivator : MonoBehaviour
     private char dialogLines;
     public int currentLine;
     public GameObject tandaTanya;
-    public GameObject radio;
+    public GameObject sign;
 
     
     // Start is called before the first frame update
@@ -30,6 +30,7 @@ public class DialogActivator : MonoBehaviour
         {
             DialogManager.instance.ShowDialog(lines);
             tandaTanya.SetActive(false);
+            sign.SetActive(false);
         }
     }
 
@@ -41,6 +42,7 @@ public class DialogActivator : MonoBehaviour
             canActivate = true;
             //animator.SetBool("Close", true);
             tandaTanya.SetActive(true);
+            sign.SetActive(true);
         }
     }
 
@@ -52,7 +54,7 @@ public class DialogActivator : MonoBehaviour
             canActivate = false;
             //animator.SetBool("Close", false);
             tandaTanya.SetActive(false);
-            radio.SetActive(false);
+            sign.SetActive(true);
         }
     }
 }
