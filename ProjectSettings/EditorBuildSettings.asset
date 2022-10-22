@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: dea8f2ba85cd3b643ac25d10eb2f43de
+  - enabled: 1
+    path: Assets/Scenes/MainMenuUI/Main Menu.unity
+    guid: 7f6e91fe62e43794c83ad550c7eed7fa
+  - enabled: 1
     path: Assets/Scenes/NeoWorld_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
