@@ -12,9 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuUI/Main Menu.unity
     guid: 7f6e91fe62e43794c83ad550c7eed7fa
   - enabled: 1
+    path: Assets/Scenes/MainMenuUI/Option.unity
+    guid: ebbc05f01d862e746858c9e4e44d8dfc
+  - enabled: 1
+    path: Assets/Scenes/MainMenuUI/Exit.unity
+    guid: 0cf5009b208a6e543ad5ef4e06382d57
+  - enabled: 1
     path: Assets/Scenes/NeoWorld_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/InsideHouse.unity
     guid: 8d8438dd5ed36d8408a0b641ed5406c8
+  - enabled: 1
+    path: Assets/Scenes/MiniGames_1.unity
+    guid: b2e2f1f8288fce2408eddb12f8540876
   m_configObjects: {}
