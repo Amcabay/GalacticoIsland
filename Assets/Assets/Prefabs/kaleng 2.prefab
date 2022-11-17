@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 2345403116549064737}
   - component: {fileID: 2345403116549064734}
   - component: {fileID: 2345403116549064738}
-  - component: {fileID: 2345403116549064741}
+  - component: {fileID: 2795055077167243285}
+  - component: {fileID: 8900861534271516661}
   m_Layer: 0
   m_Name: kaleng 2
   m_TagString: Untagged
@@ -144,7 +145,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4393307, y: 1.6821816}
   m_EdgeRadius: 0
---- !u!114 &2345403116549064741
+--- !u!114 &2795055077167243285
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -156,4 +157,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0818df7cbf1899141a028f9e706e947a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Hancurkan: {fileID: 0}
+--- !u!95 &8900861534271516661
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2345403116549064735}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cd641714102b262408acff4066d1ff3d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
